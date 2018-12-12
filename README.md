@@ -1,2 +1,3 @@
 # Coin-tossing
-It's a betting game.
+At the starting of the game, player will get 100 sek (swedish crowns). The player starts by betting a number of SEK within his budget and then chooses to bet on either heads or tails for the next toss. After the player has placed his bet, the program will simulate a coin toss and present the result for the player. If the the toss was in line with the player's bet, the player wins as much money as was betted, but if the toss resulted in opposite, the player instead loses his bet.
+The playe may quit the game at any time by betting 0 SEK. If the the game is quit, the final amount of SEK that the player had should be written to the screen. The game is also over if the payer runs out of money.
